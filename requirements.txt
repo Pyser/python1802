@@ -40,7 +40,7 @@ Flask-WTF==0.14.2
 future==0.16.0
 guacamole==0.9.2
 html5lib==0.999
-httplib2==0.9.1
+httplib2==0.19.0
 hyperlink==18.0.0
 idna==2.7
 incremental==17.5.0
