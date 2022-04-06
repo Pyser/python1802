@@ -96,7 +96,7 @@ ssh-import-id==5.5
 stevedore==1.28.0
 system-service==0.3
 tablib==0.12.1
-Twisted==18.7.0
+Twisted==22.2.0
 ubuntu-drivers-common==0.0.0
 ufw==0.35
 unattended-upgrades==0.1
